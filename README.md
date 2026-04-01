@@ -70,7 +70,7 @@ make fclean	Removes object files and the libft.a library.
 make re	Performs a full re-compile (fclean + make).
 👨‍💻 Author
 
-ADEL NASSER (adeln@student.42.fr)
+ADEL NASSER (esamn11111@gmail.com)
 
 42 Student
 
