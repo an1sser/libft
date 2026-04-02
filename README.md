@@ -76,4 +76,4 @@ ADEL NASSER (esamn11111@gmail.com)
 
 Note: This library follows the Norme of 42 Network.
 
-Note: This is the latest version of the libft project 2026/1/1 
+Note: This is the latest version of the libft project 2026 
